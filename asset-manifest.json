@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/shoppi/static/css/main.6c113acb.css",
-    "main.js": "/shoppi/static/js/main.05a04089.js",
+    "main.js": "/shoppi/static/js/main.f5bf2ec5.js",
     "static/js/787.8d82956a.chunk.js": "/shoppi/static/js/787.8d82956a.chunk.js",
     "index.html": "/shoppi/index.html",
     "main.6c113acb.css.map": "/shoppi/static/css/main.6c113acb.css.map",
-    "main.05a04089.js.map": "/shoppi/static/js/main.05a04089.js.map",
+    "main.f5bf2ec5.js.map": "/shoppi/static/js/main.f5bf2ec5.js.map",
     "787.8d82956a.chunk.js.map": "/shoppi/static/js/787.8d82956a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6c113acb.css",
-    "static/js/main.05a04089.js"
+    "static/js/main.f5bf2ec5.js"
   ]
 }
